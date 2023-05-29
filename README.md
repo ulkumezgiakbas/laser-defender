@@ -23,5 +23,4 @@ Visual Effects     Sound Effects     Menus/Screens     Content/Tuning
 Art assets which i made with Aseprite:
 -Player Ship
 -Enemy ships
--Background
 -UI sprites
