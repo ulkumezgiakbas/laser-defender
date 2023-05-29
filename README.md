@@ -11,14 +11,13 @@ Game Design:
                 -Shoot enemies for points until health reavhes zero and game ends
 
 Feature Analysis:
-
-                          CORE
+CORE:
 Player Movement    Enemy Movement -->  Enemy Waves   Player Health 	
                         
-                        SECONDARY
-      Shooting        Enemy Health        Score
+SECONDARY:
+Shooting        Enemy Health        Score
 
-                         POLISH
+POLISH:
 Visual Effects     Sound Effects     Menus/Screens     Content/Tuning
 
 Art assets which i made with Aseprite:
