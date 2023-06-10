@@ -36,4 +36,4 @@ In-game screenshots:
 ![image](https://github.com/ezgiakbas87/laser-defender/assets/126782676/64afd90a-328f-4497-a6e2-c5a45b3c6744)
 
 ----------------------
-Gameplay video:
+Gameplay video: https://www.linkedin.com/feed/update/urn:li:activity:7073334723904741376/ 
